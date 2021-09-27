@@ -13,6 +13,7 @@ def main():
     env.reset()
     env.render()
     env.close()
+    print("branch 2")
 
 
 if __name__ == '__main__':
