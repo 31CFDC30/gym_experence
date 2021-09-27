@@ -13,7 +13,9 @@ def main():
     env.reset()
     env.render()
     env.close()
-    print("branch 1")
+
+    print("branch 2")
+
 
 if __name__ == '__main__':
     main()
